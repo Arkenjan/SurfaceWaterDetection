@@ -2,5 +2,5 @@
 live project of Manning publication. 
 
 
-Topic: Monitoring Changes in Surface Water Using Satellite Image Data
+Topic: <b> Monitoring Changes in Surface Water Using Satellite Image Data </b>
 <p> This repository is including all the deliverables for the project. </p>
